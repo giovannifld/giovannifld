@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alopezdelgado
+- 👋 Hi, I’m @giovannifld
 - 👀 I’m a MS Chemistry student at Cal State Fullerton specializing in Organic Chemistry
 - 🌱 I’m doing research with Dr Cammarota focusing on cheminformatics and organometallic chemistry
 - 📫 How to reach me: giovannifld@outlook.com
